@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Audio Management</string>
+    <string name="label1">Online Playlist</string>
+    <string name="label2">Add Online Audio</string>
+    <string name="text1">Title</string>
+    <string name="caja1">Enter the audio title</string>
+    <string name="text2">URL</string>
+    <string name="caja2">Enter the video URL</string>
+    <string name="boton1">SAVE AUDIO</string>
+    <string name="label3">Audio Player</string>
+    <string name="boton2">BACK</string>
+
+    <string name="Toast1">All fields are required</string>
+    <string name="Toast2">Audio saved successfully</string>
+    <string name="Toast3">Title: </string>
+    <string name="Toast4">Unable to play the audio</string>
+</resources>

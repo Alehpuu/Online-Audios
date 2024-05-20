@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gestió Audios</string>
+    <string name="label1">Llista de reproducció en línia</string>
+    <string name="label2">Afegir àudio en línia</string>
+    <string name="text1">Títol</string>
+    <string name="caja1">Introdueix el títol de àudio</string>
+    <string name="text2">URL</string>
+    <string name="caja2">Introdueix URL del vídeo</string>
+    <string name="boton1">GUARDA ÀUDIO</string>
+    <string name="label3">Reproductor àudio</string>
+    <string name="boton2">ENRERE</string>
+
+    <string name="Toast1">Tots els camps són obligatoris</string>
+    <string name="Toast2">Àudio guardat correctament</string>
+    <string name="Toast3">Títol: </string>
+    <string name="Toast4">No ha pogut reproduir àudio</string>
+</resources>
